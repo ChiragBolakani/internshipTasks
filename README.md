@@ -17,3 +17,9 @@ Given below are the tasks which were assigned to me which I was successful to co
 <img src = "https://user-images.githubusercontent.com/62014238/95862186-230d9600-0d80-11eb-96a9-0263772cc10a.jpg" width = "250px" height = "500px">
 <img src = "https://user-images.githubusercontent.com/62014238/95863906-5d783280-0d82-11eb-97d3-a2d24f7bdd10.jpg" width = "250px" height = "500px">
 <img src = "https://user-images.githubusercontent.com/62014238/95864092-931d1b80-0d82-11eb-990e-9b51eca7ab53.jpg" width = "250px" height ="500px">
+
+## Certificates 
+![sahuLetter](https://user-images.githubusercontent.com/62014238/95864776-80efad00-0d83-11eb-8a60-9792a211b39e.jpg)
+![sahuAppre](https://user-images.githubusercontent.com/62014238/95864885-9c5ab800-0d83-11eb-85dc-e37fd7cdd590.jpg)
+
+
