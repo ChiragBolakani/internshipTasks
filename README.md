@@ -1,6 +1,6 @@
 # Internship Tasks
 **Link : https://chiragbolakani.github.io/projectLink2/**
-  **Link : https://chiragbolakani.github.io/projectLink/**
+<br\>**Link : https://chiragbolakani.github.io/projectLink/**
 
 Given below are the tasks assigned to me which I was successful to complete during the tenure of the internship. 
 
